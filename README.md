@@ -21,3 +21,6 @@ modpack need java 8
 14. ...
 15. Log on the server
 16. [PROFITSSS....](https://www.youtube.com/watch?v=rzZLIBlFWUI)
+
+
+ModList : https://docs.google.com/spreadsheets/d/1tOwlGIikv-BrBQg329h3kZWSH-3qNoIu_w4BnrG_2fE
