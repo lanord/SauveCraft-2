@@ -5,10 +5,8 @@ asm/
 patches/
 local/
 instance.cfg
-minecraft/config/InvTweaks.cfg
-minecraft/config/NEI/client.cfg
-minecraft/config/enderio/mobTypes.txt
-minecraft/config/splash.properties
+*InvTweaks.cfg*
+minecraft/config/*
 minecraft/options
 minecraft/journeymap/
 minecraft/knowledge/
