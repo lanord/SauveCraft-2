@@ -14,13 +14,12 @@ modpack need java 8
 7. Download [Mo' Creature](http://minecraft.curseforge.com/projects/mo-creatures) version 6.3.1 and place in mods directory
 8. Download [Custom Mob Spawner](http://minecraft.curseforge.com/projects/custom-mob-spawner) version 3.3.0 and place in mods directory
 9. Download [ChocoCraft](http://minecraft.curseforge.com/projects/chococraft) version 4.1.5 and place in mods directory
-10. Download [Legend of Zelda Mod](http://minecraft.curseforge.com/projects/legend-of-zelda-mod) version 3.1.2 and place in mods directory
-11. Download [JourneyMap](http://minecraft.curseforge.com/projects/journeymap-32274) version 1.7.10-5.1.3 and place in mods directory
-12. Start pack
+10. Download [JourneyMap](http://minecraft.curseforge.com/projects/journeymap-32274) version 1.7.10-5.1.3 and place in mods directory
+11. Start pack
+12. ...
 13. ...
-14. ...
-15. Log on the server
-16. [PROFITSSS....](https://www.youtube.com/watch?v=rzZLIBlFWUI)
+14. Log on the server
+15. [PROFITSSS....](https://www.youtube.com/watch?v=rzZLIBlFWUI)
 
 
 ModList : https://docs.google.com/spreadsheets/d/1tOwlGIikv-BrBQg329h3kZWSH-3qNoIu_w4BnrG_2fE
