@@ -1,5 +1,6 @@
 .gitignore
 SauveCraft-2*.zip
+natives/
 saves/
 asm/
 patches/
